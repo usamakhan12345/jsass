@@ -1,0 +1,28 @@
+#container{
+    width: 400px;
+    height: 400px;
+    background-color:brown;
+    margin-top: 40px;
+    margin-left: 420px;
+}
+#btn{
+    margin-top: 50px;
+    margin-left: 40px ;
+    width: 150px;
+}
+
+#num {
+    text-align: center;
+}
+#btn {
+    justify-content: center;
+    width: 300px;
+    line-height: 30px;
+    border-radius: 20px;
+    justify-items: center;
+    margin-left: 460px;
+}
+#btn:hover{
+    background-color: darkblue;
+    color: white;
+}
